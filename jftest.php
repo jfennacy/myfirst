@@ -7,3 +7,6 @@ foreach ($years as $year) {
     echo "$month, $year\n";
   }
 }
+
+?>
+
